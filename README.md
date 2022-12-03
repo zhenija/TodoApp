@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
+The TodoApp application allows you to add, sort, delete and edit todos.
 
-To use this template click `Use this template`
+This App was implemented using the React framework. 
 
-### Available Scripts
+Other tech stack: JS, TS, HTML, SCSS, Bulma, fortawesome.
 
-`Deploy` - available to deploy your application to gh-pages
+To run the App on your PC, clone this repository, run the npm i command, wait for it to finish and run npm start.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+[DEMO LINK](https://zhenija.github.io/TodoApp/)
